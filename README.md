@@ -1,5 +1,5 @@
 # limiterwifi
-limiterwifi untuk meremot sebuah wifi
+limiterwifi untuk meremot sebuah wifi dalam 1 jarinagn
              __    __      _________     _____   __            _             ____
 |        |  |  \  /  |  |      |        |       |   \    |    / \    |   |  |       |
 |        |  |   \/   |  |      |        |_____  |___|    |   /   \   |   |  |____   |
