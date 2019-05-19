@@ -1,11 +1,5 @@
 # limiterwifi
 limiterwifi untuk meremot sebuah wifi dalam 1 jarinagn
-##             __    __      _________     _____   __            _             ____
-##|        |  |  \  /  |  |      |        |       |   \    |    / \    |   |  |       |
-##|        |  |   \/   |  |      |        |_____  |___|    |   /   \   |   |  |____   |
-##|        |  |        |  |      |        |       |  \     |  /     \  |   |  |       |
-##|______  |  |        |  |      |        |_____  |   \    |_/       \_|   |  |       |
-
 
 [![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](PROJECT)
