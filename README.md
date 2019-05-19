@@ -1,4 +1,4 @@
-<p align="center"><img src="Documents/codingan/limiterwifi.JPG" /></p>
+<p align="center"><img src="Documents/codingan/limiterwifi.JPG">
 
 # limiterwifi
 limiterwifi untuk meremot sebuah wifi dalam 1 jarinagn
