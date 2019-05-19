@@ -1,4 +1,4 @@
-from .io import IO
+from io import IO
 
 
 _MAIN_BANNER = r"""{}
