@@ -1,0 +1,6 @@
+[ CHANGELOG ]
+
+[v1.1.0]
+- Tambahkan host yang dikustomisasi secara manual menggunakan perintah 'add' command (e.g.:add 192.168.178.24 --mac fc:fb:23:dd:ac:63)
+- Pemilihan banyak host menggunakan ID yang dipisahkan koma (e.g. :6,3,5)
+- Pilih semua host sekaligus menggunakan 'semua' alih-alih ID yang dipisahkan koma
